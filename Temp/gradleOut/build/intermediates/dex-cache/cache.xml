@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kikuchi.taku/Unity/IOSGrabPassZDepthError/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e17d5631193d7daac06cdec36618706f6a20649e">
+        <dex dex="/Users/kikuchi.taku/Unity/IOSGrabPassZDepthError/Temp/gradleOut/build/intermediates/pre-dexed/debug/unity-classes_6e5f82f87b303d42903a6d7e6f22651703abe253.jar" />
+    </item>
+
+</items>
